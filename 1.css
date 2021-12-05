@@ -1,0 +1,19 @@
+body{
+    margin-left: 100px;
+    box-sizing: border-box;
+    }
+    h1{
+    color:red;
+    }
+    hr{
+    width: 35px;
+    height: 6px;
+    color:red;
+    background-color: red;
+    text-align: left;
+    margin-left: 0px;
+    border: red 1px solid;
+    border-radius: 50px;
+    }
+    
+    
